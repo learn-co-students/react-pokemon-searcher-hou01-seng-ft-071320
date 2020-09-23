@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "daniel",
+      "hp": "100",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png"
+      },
+      "id": 151
     }
   ]
 }
